@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\рабочий стол\\Azazel\\УЧЁБКА\\ООП\\Snake\\Snake\\Snake.csproj",
+      "projectUniqueName": "D:\\рабочий стол\\Azazel\\УЧЁБКА\\oop\\Snake\\Snake\\Snake.csproj",
       "projectName": "Snake",
-      "projectPath": "D:\\рабочий стол\\Azazel\\УЧЁБКА\\ООП\\Snake\\Snake\\Snake.csproj",
+      "projectPath": "D:\\рабочий стол\\Azazel\\УЧЁБКА\\oop\\Snake\\Snake\\Snake.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "D:\\рабочий стол\\Azazel\\УЧЁБКА\\ООП\\Snake\\Snake\\obj\\",
+      "outputPath": "D:\\рабочий стол\\Azazel\\УЧЁБКА\\oop\\Snake\\Snake\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

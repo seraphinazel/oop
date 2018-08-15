@@ -9,3 +9,14 @@ D:\рабочий стол\Azazel\УЧЁБКА\ООП\Snake\Snake\obj\Debug\netc
 D:\рабочий стол\Azazel\УЧЁБКА\ООП\Snake\Snake\obj\Debug\netcoreapp2.0\Snake.AssemblyInfo.cs
 D:\рабочий стол\Azazel\УЧЁБКА\ООП\Snake\Snake\obj\Debug\netcoreapp2.0\Snake.dll
 D:\рабочий стол\Azazel\УЧЁБКА\ООП\Snake\Snake\obj\Debug\netcoreapp2.0\Snake.pdb
+D:\рабочий стол\Azazel\УЧЁБКА\oop\Snake\Snake\bin\Debug\netcoreapp2.0\Snake.deps.json
+D:\рабочий стол\Azazel\УЧЁБКА\oop\Snake\Snake\bin\Debug\netcoreapp2.0\Snake.runtimeconfig.json
+D:\рабочий стол\Azazel\УЧЁБКА\oop\Snake\Snake\bin\Debug\netcoreapp2.0\Snake.runtimeconfig.dev.json
+D:\рабочий стол\Azazel\УЧЁБКА\oop\Snake\Snake\bin\Debug\netcoreapp2.0\Snake.dll
+D:\рабочий стол\Azazel\УЧЁБКА\oop\Snake\Snake\bin\Debug\netcoreapp2.0\Snake.pdb
+D:\рабочий стол\Azazel\УЧЁБКА\oop\Snake\Snake\obj\Debug\netcoreapp2.0\Snake.csprojAssemblyReference.cache
+D:\рабочий стол\Azazel\УЧЁБКА\oop\Snake\Snake\obj\Debug\netcoreapp2.0\Snake.csproj.CoreCompileInputs.cache
+D:\рабочий стол\Azazel\УЧЁБКА\oop\Snake\Snake\obj\Debug\netcoreapp2.0\Snake.AssemblyInfoInputs.cache
+D:\рабочий стол\Azazel\УЧЁБКА\oop\Snake\Snake\obj\Debug\netcoreapp2.0\Snake.AssemblyInfo.cs
+D:\рабочий стол\Azazel\УЧЁБКА\oop\Snake\Snake\obj\Debug\netcoreapp2.0\Snake.dll
+D:\рабочий стол\Azazel\УЧЁБКА\oop\Snake\Snake\obj\Debug\netcoreapp2.0\Snake.pdb
